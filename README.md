@@ -1,4 +1,4 @@
-# MSCatalog
+ # MSCatalog
 
 MSCatalog is a PowerShell module for searching and downloading updates from https://www.catalog.update.microsoft.com.
 It is cross-platform and runs on both Desktop and Core versions of PowerShell.
